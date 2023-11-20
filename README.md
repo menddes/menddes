@@ -1,16 +1,30 @@
-### Hi there 👋
+### 👋 Olá, eu sou Erick !
 
-<!--
-**menddes/menddes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌐 Desenvolvedor apaixonado pelo mundo da programação
+- 🚀 Atualmente explorando as fronteiras do desenvolvimento de software
+- 💡 Fascinado por tecnologias inovadoras e resolução de problemas
+- 🌱 Aprendendo algo novo todos os dias para me aprimorar como profissional
+- 🔧 Habilidades: Python, SQL, Git, Estatística, Marchine Learning.
+- 📚 Graduado em Análise e Desenvolvimento de Sistemas
+- 🎯 Objetivo: Contribuir para projetos incríveis e colaborar com a comunidade open source
+- 📫 Como me encontrar: [LinkedIn]https://www.linkedin.com/in/menddes/
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias e Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+### 🚀 Projetos Destacados
+
+- Em Breve.
+
+### 🌐 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&count_private=true&hide=contribs)
+
+### 🤝 Vamos Conectar!
+
+Fique à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a colaborações e novas oportunidades de aprendizado. Vamos construir algo incrível juntos! 👨‍💻
+
