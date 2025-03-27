@@ -1,10 +1,10 @@
 ### 👋 Olá, eu sou Erick !
 
-- 🌐 Desenvolvedor Full-Stack APS.NET
-- 🚀 Atualmente explorando as fronteiras do desenvolvimento de software
+- 🌐 Analista QA
+- 🚀 Atualmente explorando as fronteiras da Qualidade de Software
 - 💡 Fascinado por tecnologias inovadoras e resolução de problemas
 - 🌱 Aprendendo algo novo todos os dias para me aprimorar como profissional
-- 🔧 Habilidades: HTML, CSS, JavaScript, C# e .NET
+- 🔧 Habilidades: HTML, CSS, JavaScript
 - 📚 Graduando em Análise e Desenvolvimento de Sistemas
 - 🎯 Objetivo: Contribuir para projetos incríveis e colaborar com a comunidade open source
 - 📫 Como me encontrar: [LinkedIn]https://www.linkedin.com/in/menddes
