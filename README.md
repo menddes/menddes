@@ -1,10 +1,10 @@
 ### 👋 Olá, eu sou Erick !
 
-- 🌐 Analista QA
-- 🚀 Atualmente explorando as fronteiras da Qualidade de Software
+- 🌐 Desenvolvedor Back End Java
+- 🚀 Atualmente explorando as fronteiras de JAVA
 - 💡 Fascinado por tecnologias inovadoras e resolução de problemas
 - 🌱 Aprendendo algo novo todos os dias para me aprimorar como profissional
-- 🔧 Habilidades: HTML, CSS, JavaScript
+- 🔧 Habilidades: 
 - 📚 Graduando em Análise e Desenvolvimento de Sistemas
 - 🎯 Objetivo: Contribuir para projetos incríveis e colaborar com a comunidade open source
 - 📫 Como me encontrar: https://www.linkedin.com/in/menddes
