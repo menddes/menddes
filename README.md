@@ -7,7 +7,7 @@
 - 🔧 Habilidades: HTML, CSS, JavaScript
 - 📚 Graduando em Análise e Desenvolvimento de Sistemas
 - 🎯 Objetivo: Contribuir para projetos incríveis e colaborar com a comunidade open source
-- 📫 Como me encontrar: [LinkedIn]https://www.linkedin.com/in/menddes
+- 📫 Como me encontrar: https://www.linkedin.com/in/menddes
 
 ### 🚀 Projetos Destacados
 
