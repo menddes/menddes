@@ -1,7 +1,7 @@
 ### 👋 Olá, eu sou Erick !
 
-- 🌐 Desenvolvedor Back End Java
-- 🚀 Atualmente explorando as fronteiras de JAVA
+- 🌐 Desenvolvedor 
+- 🚀 Atualmente explorando: 
 - 💡 Fascinado por tecnologias inovadoras e resolução de problemas
 - 🌱 Aprendendo algo novo todos os dias para me aprimorar como profissional
 - 🔧 Habilidades: 
