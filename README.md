@@ -1,23 +1,14 @@
-### 👋 Olá, eu sou Erick !
+## Sobre Mim
 
-- 🌐 Desenvolvedor 
-- 🚀 Atualmente explorando: 
-- 💡 Fascinado por tecnologias inovadoras e resolução de problemas
-- 🌱 Aprendendo algo novo todos os dias para me aprimorar como profissional
-- 🔧 Habilidades: 
-- 📚 Graduando em Análise e Desenvolvimento de Sistemas
-- 🎯 Objetivo: Contribuir para projetos incríveis e colaborar com a comunidade open source
-- 📫 Como me encontrar: https://www.linkedin.com/in/menddes
+Sou um profissional apaixonado por tecnologia, com domínio nas seguintes ferramentas e metodologias:
 
-### 🚀 Projetos Destacados
+- **Testes de API:** Postman
+- **Automação de Testes:** Cypress
+- **Metodologias Ágeis:** Agile, Scrum
+- **Automação Web:** Web Automation
 
-- Em Breve.
+Atualmente, estou me graduando em Análise e Desenvolvimento de Sistemas, buscando aprimorar continuamente minhas habilidades e conhecimentos na área de desenvolvimento de software.
 
-### 🌐 Estatísticas do GitHub
+Conecte-se comigo no LinkedIn para saber mais sobre minha jornada e projetos: [https://www.linkedin.com/in/menddes/](https://www.linkedin.com/in/menddes/ )
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&count_private=true&hide=contribs)
-
-### 🤝 Vamos Conectar!
-
-Fique à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a colaborações e novas oportunidades de aprendizado. Vamos construir algo incrível juntos! 👨‍💻
 
