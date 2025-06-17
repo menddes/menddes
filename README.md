@@ -9,7 +9,8 @@ Sou um profissional apaixonado por tecnologia, com foco na **área de Quality As
 
 Atualmente, estou me graduando em Análise e Desenvolvimento de Sistemas, buscando aprimorar continuamente minhas habilidades e conhecimentos na área de desenvolvimento de software.
 
-Conecte-se comigo no LinkedIn para saber mais sobre minha jornada e projetos: [https://www.linkedin.com/in/menddes/](https://www.linkedin.com/in/menddes/ )
+Conecte-se comigo no LinkedIn para saber mais sobre minha jornada e projetos: <a href="https://www.linkedin.com/in/menddes/" target="_blank">Meu LinkedIn</a>
+
 
 
 
